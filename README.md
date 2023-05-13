@@ -1,13 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C49BD0&height=120&section=header"/>
 
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
 
-<h1 align="center">Hello! I'm Rafael</h1>
-<h5 align="center">I ❤️ solve great challenges using tech.</h5>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From AR game development with Unity to Machine Learning using R, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=45% height=195px align="center"  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api?username=rafaelalexandrino&show_icons=true&theme=radical&count_private=true" />
-<img width=45% height=195px align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
-</div>&nbsp;
+<img height=200px align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img height=200px align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
 
 
 ## My Skills
@@ -63,9 +67,9 @@
 </a>
 <a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>
+</div>&nbsp;&nbsp;
  
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C49BD0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
