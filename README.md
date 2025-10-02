@@ -1,9 +1,33 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://media.licdn.com/dms/image/v2/D4D16AQEwDh6fSq-FIg/profile-displaybackgroundimage-shrink_350_1400/B4DZl9EdbeGkAY-/0/1758739947893?e=1762387200&v=beta&t=GDeUvWiFAmQIY1hnbCCrJI2jgcLrSnetoiLNjiWc__A" />
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="left">
+Senior Software Engineer with 4 years building product-driven applications and leading technical initiatives. I specialize in end-to-end product development, system architecture, and team leadership for innovative technology solutions.
+
+🤖 Key Facts:
+
+- AI-Powered Applications: Built recommendation systems, intelligent chatbots, and ML model integration for e-commerce platforms
+- Solutions Architecture: Designed complex system architectures using modern frameworks for energy simulations
+- Team Leadership: Mentored engineering teams, established development processes, and drove cross-functional collaboration
+- Technical Innovation: Resolved critical infrastructure issues, led major refactoring initiatives and improved team processes 
+
+💻 Full-Stack Engineering:
+
+- Backend: Python, Flask, GraphQL, PostgreSQL, MongoDB, Pytest, GraphQL & RESTFul APIs
+- Frontend: React, Next.js, TypeScript, TailwindCSS, Javascript
+- Infrastructure: GCP, CI/CD pipelines, Supabase, VertexAI, familiarity with Kubernetes
+
+🚀 Leadership Impact:
+
+- Created development workflows and documentation standards adopted within engineering team
+- Bridge technical teams with business stakeholders for cohesive product delivery
+- Active tech communicator through content creation and knowledge sharing initiatives
+
+🔥 Emerging Focus: Quantum-AI intersection as the next frontier for solving complex computational challenges. Fluent in English, experienced in remote collaboration, and passionate about leveraging technology to solve complex, real-world problems, especially through AI/ML-driven products.
+ 
+</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
@@ -27,23 +51,14 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
-#### Studying in this moment:
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -64,10 +79,10 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/kyronsatt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/kyronsatt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
